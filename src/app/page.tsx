@@ -428,7 +428,7 @@ export default function Home() {
                         </div>
                         <div>
                           <div className="text-white/80 text-xs">Welcome back!</div>
-                          <div className="text-white font-bold">Chennai Driving School</div>
+                          <div className="text-white font-bold">India Driving School</div>
                         </div>
                       </div>
                     </div>
@@ -531,10 +531,12 @@ export default function Home() {
                 desc: 'Perfect for small schools getting started',
                 features: [
                   'Up to 50 students',
-                  'Session booking',
                   'Fee collection',
                   'SMS reminders',
-                  'Basic reports'
+                  'Attendance tracking',
+                  'Basic reports',
+                  'Student portal access',
+                  'Instructor login (1)'
                 ],
                 cta: 'Get Started',
                 highlight: false
@@ -544,11 +546,15 @@ export default function Home() {
                 price: '₹2,499',
                 desc: 'For growing schools that need more',
                 features: [
+                  "Everything in Starter",
                   'Unlimited students',
                   'Custom domain',
+                  'Session booking',
+                  'Up to 5 instructors',
                   'White label branding',
                   'RTO attendance reports',
                   'Document management',
+                  'Licence journey tracker',
                   'Priority support'
                 ],
                 cta: 'Most Popular',
@@ -561,7 +567,9 @@ export default function Home() {
                 features: [
                   'Everything in Growth',
                   'Multi-branch support',
-                  'Instructor app',
+                  'SLA guaranteed uptime',
+                  'Unlimited instructors',
+                  'Vehicle management',
                   'Advanced analytics',
                   'Dedicated onboarding',
                   'Phone support'
@@ -654,7 +662,7 @@ export default function Home() {
 
           <h2 className="text-4xl md:text-5xl font-display font-black text-white mb-6 leading-tight">
             Be the first driving school
-            <span className="block">in Chennai to use Drively</span>
+            <span className="block">in India to use Drively</span>
           </h2>
 
           <p className="text-xl text-white/90 mb-12 leading-relaxed">
