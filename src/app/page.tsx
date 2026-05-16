@@ -152,7 +152,7 @@ export default function Home() {
               <div className="flex items-center gap-8 text-sm text-gray-500 opacity-0 animate-fadeInUp delay-400">
                 <div className="flex items-center gap-2">
                   <CheckCircle size={18} className="text-green-500" />
-                  <span>Free for 3 months</span>
+                  <span>Free for 15 days</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <CheckCircle size={18} className="text-green-500" />
