@@ -527,7 +527,7 @@ export default function Home() {
             {[
               {
                 name: 'Starter',
-                price: '₹999',
+                price: 'Contact Us by Joining Waitlist',
                 desc: 'Perfect for small schools getting started',
                 features: [
                   'Up to 50 students',
@@ -543,7 +543,7 @@ export default function Home() {
               },
               {
                 name: 'Growth',
-                price: '₹2,499',
+                price: 'Contact Us by Joining Waitlist',
                 desc: 'For growing schools that need more',
                 features: [
                   "Everything in Starter",
@@ -562,7 +562,7 @@ export default function Home() {
               },
               {
                 name: 'Pro',
-                price: '₹4,999',
+                price: 'Contact Us by Joining Waitlist',
                 desc: 'For established schools with branches',
                 features: [
                   'Everything in Growth',
