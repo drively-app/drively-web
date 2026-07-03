@@ -607,7 +607,7 @@ export default function Home() {
                   <div className={`text-sm ${
                     plan.highlight ? 'text-white/80' : 'text-gray-500'
                   }`}>
-                    per monthz
+                    per month
                   </div>
                 </div>
 
