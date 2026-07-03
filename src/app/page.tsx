@@ -527,7 +527,7 @@ export default function Home() {
             {[
               {
                 name: 'Starter',
-                price: 'Contact Us by Joining Waitlist',
+                price: '999',
                 desc: 'Perfect for small schools getting started',
                 features: [
                   'Up to 50 students',
@@ -543,7 +543,7 @@ export default function Home() {
               },
               {
                 name: 'Growth',
-                price: 'Contact Us by Joining Waitlist',
+                price: '1999',
                 desc: 'For growing schools that need more',
                 features: [
                   "Everything in Starter",
@@ -562,7 +562,7 @@ export default function Home() {
               },
               {
                 name: 'Pro',
-                price: 'Contact Us by Joining Waitlist',
+                price: '2500',
                 desc: 'For established schools with branches',
                 features: [
                   'Everything in Growth',
@@ -607,7 +607,7 @@ export default function Home() {
                   <div className={`text-sm ${
                     plan.highlight ? 'text-white/80' : 'text-gray-500'
                   }`}>
-                    per month
+                    per monthz
                   </div>
                 </div>
 
