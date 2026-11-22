@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   verification: {
     other: {
-      'facebook-domain-verification': '6cnm4mzdf2nijpvf0v9h06jcdt241',
+      'facebook-domain-verification': '6cxnn4m2df2niipvf0v9h06jodt241',
     },
   },
 }
